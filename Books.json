@@ -1,0 +1,64 @@
+{
+    "Books":[
+    {
+        "id" : "1",
+        "name" : "Python Machine learning Cookbook",
+        "author" : "Prateek Joshi"
+    },
+
+    {
+        "id" : "2",
+        "name" : "Python Crash author: A Hands-on,Project-Based Introduction to programming",
+        "author" : "Eric Matthes"
+    },
+
+    {
+        "id" : "3",
+        "name" : "Learning Python , 5th Edition",
+        "author" : "Mark Lutz"
+    },
+
+    {
+        "id" : "4",
+        "name" : "A Smarter Way to Learn Python: Learn it faster. Remember it longer",
+        "author" : "Mark Myers"
+    },
+
+    {
+        "id" : "5",
+        "name" : "Python Geospatial Analysis Cookbook",
+        "author" : " Michael Diener"
+    },
+
+    {
+        "id" : "6",
+        "name" : "Mastering matplotlib",
+        "author" : "Duncan M. McGreggor"
+    },
+
+    {
+        "id" : "7",
+        "name" : "Python Pocket Reference: Python In Your Pocket (Pocket Reference (O'Reilly))",
+        "author" : "Mark Lutz"
+    },
+
+    {
+        "id" : "8",
+        "name" : "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
+        "author" : "Wes McKinney"
+    },
+
+    {
+        "id" : "9",
+        "name" : "Fluent Python: Clear, Concise, and Effective Programming",
+        "author" : "Luciano Ramalho"
+    },
+
+    {
+        "id" : "10",
+        "name" : "Deep Learning with Python",
+        "author" : "Francois Chollet"
+    }
+    
+    ]
+ }
